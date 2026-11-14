@@ -29,7 +29,7 @@ This is my **first repository** for Application Development. Here are my *favori
 
 ### Movies I Want to Watch
 - [x] Fury
-- [ ] Add a movie you still want to watch
+- [ ] Der Tiger
 
 ### Sample Code
 Inline code looks like this: `print("I love movies!")`
